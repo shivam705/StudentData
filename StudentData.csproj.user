@@ -12,6 +12,6 @@
     <WebStackScaffolding_DbContextTypeFullName>StudentData.Data.DbContexts.studentContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <NameOfLastUsedPublishProfile>C:\Users\shivamkushwaha\source\repos\StudentData\StudentData\Properties\PublishProfiles\studentappservice - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\Assignments\Azure\StudentData\Properties\PublishProfiles\StudentData20221128234452 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
